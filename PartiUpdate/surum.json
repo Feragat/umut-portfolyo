@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.3",
+  "surum": "1.0.4",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
   "sha256": "",
-  "not": "Seçmen Tespiti ekranı eklendi: Tel/TC/Ad Soyad ile arama, satır işaretleme, kalıcı arama klasörü ve 'Son Aktarılan' bilgisi."
+  "not": "Seçmen Tespiti: birikimli arama, Tümünü Seç / Ekranı Temizle ve birden çok bölge dosyasına toplu gönderim eklendi."
 }
