@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.4",
+  "surum": "1.0.5",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
   "sha256": "",
-  "not": "Seçmen Tespiti: birikimli arama, Tümünü Seç / Ekranı Temizle ve birden çok bölge dosyasına toplu gönderim eklendi."
+  "not": "Seçmen Tespiti ekranı ve menüsü 'Sandık Yönetimi' olarak yeniden adlandırıldı."
 }
