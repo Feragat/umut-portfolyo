@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.12",
+  "surum": "1.0.13",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "D97DD3C5255B979FCF43CA77C31E2C7B79F1C4097A1E6408CD61D6872D1DED6A",
-  "not": "Sandık Yönetimi'nde 'Bölge Seç' combobox'ı; seçilen bölge dosyasına aktarım, farklı bölge kayıtları en altta sarı işaretli, mükerrer kayıt engelleme ve eksik tüm kenarlıkların tamamlanması."
+  "sha256": "8DC14A06FA379415689AEA4FF0FA43D789EA9C9CE53E50D1E63469CF3B2F92A8",
+  "not": "Sandık Yönetimi'nde 'Bölge Seçimi' combobox'ı sağ üstte görünür hale getirildi; üstüne 'Bölge Seçimi' etiketi eklendi."
 }
