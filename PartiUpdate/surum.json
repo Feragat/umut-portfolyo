@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.7",
+  "surum": "1.0.8",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "E7C62312B08DBF4CB9D4E87627884EB46C42CF947F6FAF41BA82DC3E0F0AB3DF",
-  "not": "Sandık Yönetimi: [SANDIK ALANI] bilgisi 'SANDIĞIN BAĞLI OLDUĞU OKUL' sütunu olarak eklendi. Bölge dosyası yoksa oluşturuluyor, okul sütunu MAHALLE ile ÜYELİK DURUMU arasına ekleniyor ve satırlar OY KULLANDIĞI SANDIK'a göre gruplanıyor (BAŞKAN grubun başında)."
+  "sha256": "D9326F0D898B0935565781AEA7822EC4835CEF897B9A86ABBAAC08C8176BF625",
+  "not": "Sandık Yönetimi: 'Arama Türü' varsayılanı 'TC No ile Ara' olarak değiştirildi."
 }
