@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.8",
+  "surum": "1.0.9",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "D9326F0D898B0935565781AEA7822EC4835CEF897B9A86ABBAAC08C8176BF625",
-  "not": "Sandık Yönetimi: 'Arama Türü' varsayılanı 'TC No ile Ara' olarak değiştirildi."
+  "sha256": "F80B31C791193F933ADE3CCFE1ED6338D0FCF3BB89271B99AA6C878F1D63463F",
+  "not": "Bölge Sandık Analizi grid'ine 'SANDIĞIN BAĞLI OLDUĞU OKUL' sütunu eklendi (MAHALLE yanına). Bölge dosyasında sütun doluysa değer gelir, yoksa boş kalır."
 }
