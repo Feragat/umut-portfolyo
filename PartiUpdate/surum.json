@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.9",
+  "surum": "1.0.10",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "F80B31C791193F933ADE3CCFE1ED6338D0FCF3BB89271B99AA6C878F1D63463F",
-  "not": "Bölge Sandık Analizi grid'ine 'SANDIĞIN BAĞLI OLDUĞU OKUL' sütunu eklendi (MAHALLE yanına). Bölge dosyasında sütun doluysa değer gelir, yoksa boş kalır."
+  "sha256": "39A39F5C565940E263F9380BFF2B7793BDC7670C7466AAD8DE481D3F3055A6C8",
+  "not": "Sandık Yönetimi: İşaretsiz satırlara sağ tık 'Satırı Sil' eklendi; işaretli satırlar korunur."
 }
