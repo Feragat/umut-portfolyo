@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.16",
+  "surum": "1.0.17",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "DA6450C4BC9A7100CD7B5FD173076341ECA76DF465410509E87392DFDD19629F",
-  "not": "Sandık Yönetimi: Ekran kapatılıp açılsa da satırlar/seçimler geri yüklenir; 'Boş Satır Oluştur' butonu eklendi; arama sonrası imleç takılması giderildi; ESC artık ekranı kapatmaz."
+  "sha256": "3E0E4C8AE99604B837F911452F4067978F9CA57324BBA02753A0B9DB8119B76F",
+  "not": "Kadın Kolları ve Gençlik Kolları alanlarında 'Seçmen Analizi' menüsü görünür hale getirildi; alt ekranlar ve filtreler aynen çalışır."
 }
