@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.14",
+  "surum": "1.0.15",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "1F69FA0C547A4D62B278222DB96BEA36EC2DAB92F2BD4079148F5DC1DAC7F4EE",
-  "not": "Sandık Yönetimi'nde 'Bölge Seçimi' combobox'ı görünür hale getirildi; 'Son Aktarılan' bilgisi alt bilgi satırına taşındı."
+  "sha256": "5DAD7976C131A25FED1BA11D88355FE2B8807A712BC2B29F10D384F3D0CADA74",
+  "not": "Sandık Yönetimi > Ad Soyad ile Ara artık birebir eşleşiyor; büyük/küçük harf ve Türkçe karakter farkı gözetilmez, kapsayan/alakasız isimler listelenmez."
 }
