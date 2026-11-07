@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.17",
+  "surum": "1.0.18",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "3E0E4C8AE99604B837F911452F4067978F9CA57324BBA02753A0B9DB8119B76F",
-  "not": "Kadın Kolları ve Gençlik Kolları alanlarında 'Seçmen Analizi' menüsü görünür hale getirildi; alt ekranlar ve filtreler aynen çalışır."
+  "sha256": "C2F885F184A4CD318B51ABA2A2212D1753BD90EC5F5FA5C4D344CAF3ACC22CD4",
+  "not": "Sandık Yönetimi ekranına A4 el yazısı/AI listelerini Excel/CSV/JSON formatında toplu aktarma ve TC -> Telefon -> Ad Soyad sırasıyla otomatik arama özelliği eklendi."
 }
