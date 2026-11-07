@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.15",
+  "surum": "1.0.16",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "5DAD7976C131A25FED1BA11D88355FE2B8807A712BC2B29F10D384F3D0CADA74",
-  "not": "Sandık Yönetimi > Ad Soyad ile Ara artık birebir eşleşiyor; büyük/küçük harf ve Türkçe karakter farkı gözetilmez, kapsayan/alakasız isimler listelenmez."
+  "sha256": "DA6450C4BC9A7100CD7B5FD173076341ECA76DF465410509E87392DFDD19629F",
+  "not": "Sandık Yönetimi: Ekran kapatılıp açılsa da satırlar/seçimler geri yüklenir; 'Boş Satır Oluştur' butonu eklendi; arama sonrası imleç takılması giderildi; ESC artık ekranı kapatmaz."
 }
