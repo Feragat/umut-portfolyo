@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.18",
+  "surum": "1.0.19",
   "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "C2F885F184A4CD318B51ABA2A2212D1753BD90EC5F5FA5C4D344CAF3ACC22CD4",
-  "not": "Sandık Yönetimi ekranına A4 el yazısı/AI listelerini Excel/CSV/JSON formatında toplu aktarma ve TC -> Telefon -> Ad Soyad sırasıyla otomatik arama özelliği eklendi."
+  "sha256": "23cd86e434c5b3a68a5edffc72510f084042db3cb3ff73c083a3e1f85f4a9e6c",
+  "not": "Ana ekran 3 kolonlu düzene geçirildi; Bölge Haritası gömülü hale getirildi, harita genişliği daraltıldı ve yan paneller genişletildi. Veri Girişi & Önizleme penceresindeki SplitContainer çökmesi giderildi."
 }
