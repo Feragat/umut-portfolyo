@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.19",
-  "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-  "sha256": "23cd86e434c5b3a68a5edffc72510f084042db3cb3ff73c083a3e1f85f4a9e6c",
-  "not": "Ana ekran 3 kolonlu düzene geçirildi; Bölge Haritası gömülü hale getirildi, harita genişliği daraltıldı ve yan paneller genişletildi. Veri Girişi & Önizleme penceresindeki SplitContainer çökmesi giderildi."
+"surum": "1.0.22",
+"url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
+"sha256": "fb9767005c52c1c3b40777bd207d30e602e9135b754f9c17e6bf1c77c46fd67c",
+"not": "Pano ve harita verileri artık önbellekten yükleniyor; ilk açılış taraması da paralel okuma ile hızlandırıldı."
 }
