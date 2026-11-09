@@ -1,6 +1,6 @@
 {
-"surum": "1.0.23",
+"surum": "1.0.24",
 "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-"sha256": "f5704077583d053f64df9416fcb491dee6f2534f7c187f3a1d1ff4bc56cb3ea1",
-"not": "Ana ekran pano ve karne panelleri sayfa sonuna kadar uzatıldı; Yüreğir Genel Bakış'a bölge filtresi eklendi. Bölge Haritası büyütüldüğünde tam yükseklik ve sağ detay paneliyle gösteriliyor."
+"sha256": "69f6f4afb2bcc4f101e2ca562f3f115f29a1db80ce8afeb1d0dd7cc903d0cf31",
+"not": "Üye Yoğunluğu haritasında her bölge farklı canlı renkte gösteriliyor. Yüreğir Genel Bakış ve Mahalle/Sandık Karnesi'ndeki büyük rakamlar kutuya sığacak şekilde otomatik küçültülüyor. Hesap menüsüne 'Çalışma Alanı Seç' eklendi."
 }
