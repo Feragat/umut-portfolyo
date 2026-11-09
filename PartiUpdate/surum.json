@@ -1,6 +1,6 @@
 {
-"surum": "1.0.24",
+"surum": "1.0.26",
 "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-"sha256": "69f6f4afb2bcc4f101e2ca562f3f115f29a1db80ce8afeb1d0dd7cc903d0cf31",
-"not": "Üye Yoğunluğu haritasında her bölge farklı canlı renkte gösteriliyor. Yüreğir Genel Bakış ve Mahalle/Sandık Karnesi'ndeki büyük rakamlar kutuya sığacak şekilde otomatik küçültülüyor. Hesap menüsüne 'Çalışma Alanı Seç' eklendi."
+"sha256": "cbbbbe3e4a15a57e6864639ef49d2bca9b2dfc799c69bab93019a99c077728ef",
+"not": "Sandık Yönetimi artık satırları MAHALLE sütununa göre mahalle 'ÇALIŞMA' dosyalarına aktarıyor. 'Bölge / Mahalle Listesi' ekranı eklendi (Excel'den içe/dışa aktarma, gömülü liste + program listesi). Harita bilgi paneli sağ-üst köşeye taşındı. Saha Görev 'Yeni Kayıt' menüsünde oluşan çökme giderildi."
 }
