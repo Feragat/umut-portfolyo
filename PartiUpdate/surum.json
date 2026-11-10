@@ -1,6 +1,6 @@
 {
-"surum": "1.0.26",
+"surum": "1.0.36",
 "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-"sha256": "cbbbbe3e4a15a57e6864639ef49d2bca9b2dfc799c69bab93019a99c077728ef",
-"not": "Sandık Yönetimi artık satırları MAHALLE sütununa göre mahalle 'ÇALIŞMA' dosyalarına aktarıyor. 'Bölge / Mahalle Listesi' ekranı eklendi (Excel'den içe/dışa aktarma, gömülü liste + program listesi). Harita bilgi paneli sağ-üst köşeye taşındı. Saha Görev 'Yeni Kayıt' menüsünde oluşan çökme giderildi."
+"sha256": "b2d925eb26b1c2331c5c27eeedf3758de42f192c9115c5d9ede012d1729463e2",
+"not": "Sandık Yönetimi toplu içe aktarmada mükerrer ve bulunamayan kayıtlar artık ayrıntılı, kopyalanabilir uyarı penceresinde gösteriliyor; 1.0.27-1.0.36 birikimli iyileştirmeler dahil."
 }
