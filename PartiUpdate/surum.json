@@ -1,6 +1,6 @@
 {
-"surum": "1.0.37",
+"surum": "1.0.38",
 "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-"sha256": "9595fa5becfecc9b64d7644e45ae20b85cd219d271851be7c450d070bc5529d6",
-"not": "Sandık Yönetimi: aynı telefonu paylaşan farklı kişiler artık mükerrer sayılıp atlanmıyor; GÖREVİ sütununda tüm satırlara toplu görev atama eklendi."
+"sha256": "55e646f569f546c9789245e74c2cee4506f4f05a67d089fb1073de6b2466cc32",
+"not": "Listeden İçe Aktar artık Excel/CSV/JSON'daki GÖREVİ sütununu da grid'e aktarıyor; önizlemede düzenlenebilir. Tanınmayan görev değerleri boş bırakılıp uyarı veriliyor."
 }
