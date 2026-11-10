@@ -1,6 +1,6 @@
 {
-"surum": "1.0.36",
+"surum": "1.0.37",
 "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-"sha256": "b2d925eb26b1c2331c5c27eeedf3758de42f192c9115c5d9ede012d1729463e2",
-"not": "Sandık Yönetimi toplu içe aktarmada mükerrer ve bulunamayan kayıtlar artık ayrıntılı, kopyalanabilir uyarı penceresinde gösteriliyor; 1.0.27-1.0.36 birikimli iyileştirmeler dahil."
+"sha256": "9595fa5becfecc9b64d7644e45ae20b85cd219d271851be7c450d070bc5529d6",
+"not": "Sandık Yönetimi: aynı telefonu paylaşan farklı kişiler artık mükerrer sayılıp atlanmıyor; GÖREVİ sütununda tüm satırlara toplu görev atama eklendi."
 }
