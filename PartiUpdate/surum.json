@@ -1,6 +1,6 @@
 {
-"surum": "1.0.41",
+"surum": "1.0.42",
 "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-"sha256": "2AF69D4D613BED352C1353B8A033BEDEC37B6FB18E0DB41885517AEDB4FF052F",
-"not": "Sandık Yönetimi'nde 'Mahalle Dosyalarına Aktar' artık aynı sandıkta birden fazla BAŞKAN bırakmıyor: fazla BAŞKAN'lar BAŞKAN'ı olmayan uygun sandıklara dağıtılıyor, BAŞKAN dışındaki satırlar YARDIMCI yapılıyor; MÜŞAHİT'ler korunuyor."
+"sha256": "6DF14120288798A038E81F1776E2D2FCF1BBB317F5518DFAE269A921E3B58D7E",
+"not": "Sandık Yönetimi'nde 'Mahalle Dosyalarına Aktar' artık mahalledeki tüm sandıkları 3'er satır olarak yazıyor; eksik satırlar boş bırakılıyor. Fazla BAŞKAN'lar boş sandıklara dağıtılıyor, YARDIMCI'ya çevrilmiyor; MÜŞAHİT'ler korunuyor."
 }
