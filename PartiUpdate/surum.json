@@ -1,6 +1,6 @@
 {
-"surum": "1.0.42",
+"surum": "1.0.43",
 "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-"sha256": "6DF14120288798A038E81F1776E2D2FCF1BBB317F5518DFAE269A921E3B58D7E",
-"not": "Sandık Yönetimi'nde 'Mahalle Dosyalarına Aktar' artık mahalledeki tüm sandıkları 3'er satır olarak yazıyor; eksik satırlar boş bırakılıyor. Fazla BAŞKAN'lar boş sandıklara dağıtılıyor, YARDIMCI'ya çevrilmiyor; MÜŞAHİT'ler korunuyor."
+"sha256": "924585DAB58D6A5CDE29B299C9732275854A7BD3E9EBC5120E86A39413E85D1D",
+"not": "Sandık Yönetimi'nde 'Bölge Seçimi' kutusu artık 'Bölge seçiniz' olarak açılıyor. Bölge seçilmeden 'Mahalle Dosyalarına Aktar' denirse 'Aktarılacak Bölge Seçmediniz. Lütfen Bölge Seçiniz.' uyarısı çıkıyor; aktarım tamamlandıktan sonra seçim otomatik olarak 'Bölge seçiniz'e dönüyor. Böylece yanlış bölgeye aktarımın önüne geçiliyor."
 }
