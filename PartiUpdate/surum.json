@@ -1,6 +1,6 @@
 {
-"surum": "1.0.43",
+"surum": "1.0.44",
 "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-"sha256": "924585DAB58D6A5CDE29B299C9732275854A7BD3E9EBC5120E86A39413E85D1D",
-"not": "Sandık Yönetimi'nde 'Bölge Seçimi' kutusu artık 'Bölge seçiniz' olarak açılıyor. Bölge seçilmeden 'Mahalle Dosyalarına Aktar' denirse 'Aktarılacak Bölge Seçmediniz. Lütfen Bölge Seçiniz.' uyarısı çıkıyor; aktarım tamamlandıktan sonra seçim otomatik olarak 'Bölge seçiniz'e dönüyor. Böylece yanlış bölgeye aktarımın önüne geçiliyor."
+"sha256": "AC7EEA71D56E1B269688E77F178FCFCCE771C254E3469C2065D00CC13CA55F83",
+"not": "Sandık Yönetimi'nde toplu içe aktarmada seçmen kaydının TC'si boşsa içe aktarılan dosyadan tamamlanıyor. Aynı kişinin TC'li/TC'siz mükerrer eklenmesi engellendi. Mahalle BAŞKAN'ları bizim listemize göre önce kendi sandığına, fazlaları yakın sandıklara yerleştiriliyor; BAŞKAN'ı olmayan sandıkta 1. satır boş bırakılıp YARDIMCI'lar 2-3. satırlara yazılıyor."
 }
