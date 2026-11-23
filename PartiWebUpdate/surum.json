@@ -1,7 +1,7 @@
 {
-    "surum":  "0.11.1",
+    "surum":  "0.11.2",
     "url":  "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiWebUpdate/PartiWeb.zip",
-    "sha256":  "FD7B4F8E0DB0F59C2A0992D7B9963378006A4A37E0EF5D985B6DEF9E47BC98B1",
-    "boyut":  59727808,
-    "not":  "PartiWeb\u0027e kendi guncelleme denetimi eklendi: ust barda rozet, surum notlari, indirme ilerlemesi, SHA-256 dogrulama ve otomatik yeniden baslatma. Guncelleme yalnizca yonetici (Duzenle) yetkisiyle calisir."
+    "sha256":  "A501FCFA155877D6DAF8C579C9B7CFCA487217ABF2A1AF538FFD2047508D5762",
+    "boyut":  59728018,
+    "not":  "Cikis yapinca giris ekranina donmeme hatasi duzeltildi (Yenile gerekmiyor). Oturum suresi dolunca da giris ekrani garanti edilir."
 }
