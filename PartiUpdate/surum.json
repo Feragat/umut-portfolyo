@@ -1,6 +1,6 @@
 {
-"surum": "1.0.44",
+"surum": "1.0.45",
 "url": "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiUpdate/Parti.exe",
-"sha256": "AC7EEA71D56E1B269688E77F178FCFCCE771C254E3469C2065D00CC13CA55F83",
-"not": "Sandık Yönetimi'nde toplu içe aktarmada seçmen kaydının TC'si boşsa içe aktarılan dosyadan tamamlanıyor. Aynı kişinin TC'li/TC'siz mükerrer eklenmesi engellendi. Mahalle BAŞKAN'ları bizim listemize göre önce kendi sandığına, fazlaları yakın sandıklara yerleştiriliyor; BAŞKAN'ı olmayan sandıkta 1. satır boş bırakılıp YARDIMCI'lar 2-3. satırlara yazılıyor."
+"sha256": "B2C77AB2786D5D2F768D563D92D27CF6A9E92A6F6F214D50E2A7F1F0B88702C9",
+"not": "Sandık Yönetimi'nde toplu içe aktarmada telefonla eşleşen kişinin adı aynıysa soyadındaki yazım farkı (ör. GÖKHAN/GÖKKAN) artık farklı kişi sayılmıyor. Seçmen listesindeki soyadı ve TC kullanılıyor; boş alanlar içe aktarma dosyasından tamamlanıyor."
 }
