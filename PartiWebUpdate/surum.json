@@ -1,7 +1,7 @@
 {
-    "surum":  "0.11.2",
+    "surum":  "0.12.0",
     "url":  "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiWebUpdate/PartiWeb.zip",
-    "sha256":  "A501FCFA155877D6DAF8C579C9B7CFCA487217ABF2A1AF538FFD2047508D5762",
-    "boyut":  59728018,
-    "not":  "Cikis yapinca giris ekranina donmeme hatasi duzeltildi (Yenile gerekmiyor). Oturum suresi dolunca da giris ekrani garanti edilir."
+    "sha256":  "E346E9EDDDDA4C449E37B05AA533FF16C6B2A05395402A6ADBC51BCA17D86E57",
+    "boyut":  59758934,
+    "not":  "Secim Gunu Operasyon Merkezi eklendi (Saha): gorevlendirme, kontrol listesi, sonuc girisi, referans oy ice aktarma, CSV disa aktarma ve tutanak arsivi. Telefonlar hassas veri yetkisine gore maskelenir."
 }
