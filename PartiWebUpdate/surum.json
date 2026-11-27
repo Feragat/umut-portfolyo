@@ -1,7 +1,7 @@
 {
-    "surum":  "0.13.0",
+    "surum":  "0.14.2",
     "url":  "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiWebUpdate/PartiWeb.zip",
-    "sha256":  "6EB2A6CC6D166011FAE1181AA5911988F2AD53CEAE285C288136503AD16F1903",
-    "boyut":  59766895,
-    "not":  "Pano · Secim / Yili ve sandigin ilk 3 partisi"
+    "sha256":  "DBFA40BA451E5810A77D28D6C302EF05FB2B9B3FE5B785E497D60458D01FDBE3",
+    "boyut":  59794377,
+    "not":  "Pano mahalle siniri haritasi + tum mahalle tiklamalari"
 }
