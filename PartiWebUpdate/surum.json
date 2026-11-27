@@ -1,7 +1,7 @@
 {
-    "surum":  "0.12.0",
+    "surum":  "0.13.0",
     "url":  "https://media.githubusercontent.com/media/Feragat/umut-portfolyo/main/PartiWebUpdate/PartiWeb.zip",
-    "sha256":  "E346E9EDDDDA4C449E37B05AA533FF16C6B2A05395402A6ADBC51BCA17D86E57",
-    "boyut":  59758934,
-    "not":  "Secim Gunu Operasyon Merkezi eklendi (Saha): gorevlendirme, kontrol listesi, sonuc girisi, referans oy ice aktarma, CSV disa aktarma ve tutanak arsivi. Telefonlar hassas veri yetkisine gore maskelenir."
+    "sha256":  "6EB2A6CC6D166011FAE1181AA5911988F2AD53CEAE285C288136503AD16F1903",
+    "boyut":  59766895,
+    "not":  "Pano · Secim / Yili ve sandigin ilk 3 partisi"
 }
